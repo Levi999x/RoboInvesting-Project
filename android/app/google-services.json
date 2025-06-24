@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "237119031938",
+    "firebase_url": "https://stock-market-20b3b-default-rtdb.firebaseio.com",
+    "project_id": "stock-market-20b3b",
+    "storage_bucket": "stock-market-20b3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237119031938:android:d1dcfc1621752f94a5029b",
+        "android_client_info": {
+          "package_name": "com.stock.market.stock_market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-XlwdKQA8abfs9w1gweHGyA7U21XXRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
